@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message>
+  <metadata> 
+    <msgId>1</msgId>
+    <clientType>type1
+    and type2
+    </clientType>
+  </metadata>
+  <individual>
+    <name>John</name>
+    <surname>Smith</surname>
+      <additionalInformation>
+        <email>aaa@gmail.com</email>
+        <phoneNumber>11110000</phoneNumber>
+      </additionalInformation>
+  </individual>
+</message>
